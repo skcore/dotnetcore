@@ -1,0 +1,14 @@
+@WebAPIDotnet8_HostAddress = https://localhost:7216
+
+GET {{WebAPIDotnet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{WebAPIDotnet8_HostAddress}}/weatherforecast
+
+###
+
+GET {{WebAPIDotnet8_HostAddress}}/api/covidlog
+
+###
