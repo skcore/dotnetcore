@@ -3,9 +3,9 @@
 This is the sample Web API application developed in dotnet8 and implemented CRUD operations in different ways
 (EF, ADO.NET)
 
-> First, connected db directly in contoller level with EF
-> Second, connected db using services, reposiorys with EF
-> Third, connected db using services, reposiorys with ADO.NET
+1. Connected db directly in contoller level with **EF**
+2. Connected db using services, repositories with **EF**
+3. Connected db using services, repositories with **ADO.NET**
 
 ### Technologies
 1. ASP.NET CORE (DOTNET 8)
