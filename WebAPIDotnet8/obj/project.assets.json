@@ -4433,19 +4433,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ASP.NET CORE PRACTICE\\WebAPIDotnet8\\WebAPIDotnet8\\WebAPIDotnet8.csproj",
+      "projectUniqueName": "E:\\ASP.NET CORE PRACTICE\\Core\\WebAPIDotnet8\\dotnetcore\\WebAPIDotnet8\\WebAPIDotnet8.csproj",
       "projectName": "WebAPIDotnet8",
-      "projectPath": "E:\\ASP.NET CORE PRACTICE\\WebAPIDotnet8\\WebAPIDotnet8\\WebAPIDotnet8.csproj",
+      "projectPath": "E:\\ASP.NET CORE PRACTICE\\Core\\WebAPIDotnet8\\dotnetcore\\WebAPIDotnet8\\WebAPIDotnet8.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "E:\\ASP.NET CORE PRACTICE\\WebAPIDotnet8\\WebAPIDotnet8\\obj\\",
+      "outputPath": "E:\\ASP.NET CORE PRACTICE\\Core\\WebAPIDotnet8\\dotnetcore\\WebAPIDotnet8\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
