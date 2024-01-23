@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebDotnet8/1.0.0": {
+        "runtime": {
+          "WebDotnet8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebDotnet8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
