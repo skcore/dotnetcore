@@ -27,9 +27,9 @@ Install ResponseCompression package
 ### To verify that response compression is working correctly in your ASP.NET Core Web API, you can follow these steps:
 
 Use Browser Developer Tools:
-• Open your web browser (e.g., Chrome, Firefox).
-• Open the Developer Tools (usually by pressing F12 or right-clicking on the page and selecting "Inspect").
-• Go to the "Network" tab.
-• Make a request to your API endpoint.
-• Click on the request in the network tab to view its details.
-• Check the "Headers" section for the Content-Encoding header. It should show gzip or br (Brotli) if the response is compressed.
+1. Open your web browser (e.g., Chrome, Firefox).
+2. Open the Developer Tools (usually by pressing F12 or right-clicking on the page and selecting "Inspect").
+3. Go to the "Network" tab.
+4. Make a request to your API endpoint.
+5. Click on the request in the network tab to view its details.
+6. Check the "Headers" section for the Content-Encoding header. It should show gzip or br (Brotli) if the response is compressed.
