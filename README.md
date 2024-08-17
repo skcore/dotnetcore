@@ -18,3 +18,18 @@ This is the sample Web API application developed in dotnet8 and implemented CRUD
 
 
 Note : **Excpetions not handled with try, catch block since it is sample web api application for crud operations in dotnet8**
+
+
+To compress data in an ASP.NET Core Web API, you can use response compression middleware.
+Install ResponseCompression package
+--dotnet add package Microsoft.AspNetCore.ResponseCompression
+
+### To verify that response compression is working correctly in your ASP.NET Core Web API, you can follow these steps:
+
+Use Browser Developer Tools:
+• Open your web browser (e.g., Chrome, Firefox).
+• Open the Developer Tools (usually by pressing F12 or right-clicking on the page and selecting "Inspect").
+• Go to the "Network" tab.
+• Make a request to your API endpoint.
+• Click on the request in the network tab to view its details.
+• Check the "Headers" section for the Content-Encoding header. It should show gzip or br (Brotli) if the response is compressed.
