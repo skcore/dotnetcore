@@ -1,5 +1,8 @@
 # Asp.net Core Web API CRUD application in dotnet8
 
+ASP.NET Interview Questions 
+https://gtcore.in/asp-net-core-top-interview-questions/
+
 This is the sample Web API application developed in dotnet8 and implemented CRUD operations in different ways
 (EF, ADO.NET)
 
